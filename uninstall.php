@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Uninstall Music Playlist Plugin
